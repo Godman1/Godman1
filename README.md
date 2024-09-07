@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Godman1
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Data Science and ML
+- 👀 I’m Software developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on Twitter @Godman06708954
 
